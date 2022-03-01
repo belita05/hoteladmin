@@ -53,15 +53,7 @@ const HotelAdd = () =>{
     }else{
       setHotelError("Enter The Hotel Name");
     }
- 
-      
-      
-         
-         
-           
-         
-            
-    
+  
   }
 return(
     <div>
